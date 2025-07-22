@@ -1,4 +1,4 @@
-🚀 Final Year B.Tech | Data Science @ SRM IST
+Final Year B.Tech | Data Science @ SRM IST
 👨‍💻 Passionate about solving real-world problems with data & code.
 📊 Aspiring Data Analyst | Machine Learning Enthusiast | Full-Stack Explorer.
 🛠️ Tech Stack: Python, SQL, Pandas, Power BI, React, MongoDB, Node.js,Matlplotlib,seaborn.
