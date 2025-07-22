@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @KotaGnanesh
-- 👀 I’m interested in Data based projects.
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on projects based on POWER BI
-- 📫 How to reach me gnaneshkota26@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Final Year B.Tech | Data Science @ SRM IST
+👨‍💻 Passionate about solving real-world problems with data & code.
+📊 Aspiring Data Analyst | Machine Learning Enthusiast | Full-Stack Explorer.
+🛠️ Tech Stack: Python, SQL, Pandas, Power BI, React, MongoDB, Node.js,Matlplotlib,seaborn.
+🔍 Currently building projects in ML, data visualization, and web development.
+📚 Eager to learn | Open to internships & full-time roles.
 
 <!---
 KotaGnanesh/KotaGnanesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
